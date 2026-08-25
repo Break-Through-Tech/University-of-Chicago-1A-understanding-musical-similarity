@@ -1,4 +1,4 @@
-# Understanding Musical Similarity: Building a Feature-Based Recommendation System with Graph-Based Interpretability
+# Financial Resilience Map: Predicting Household Financial Fragility with Calibrated, Explainable Models
 
 **Company / Org:** Thrivent   
 **Challenge Advisor:** Nathan Rickert, naterick12@gmail.com   
